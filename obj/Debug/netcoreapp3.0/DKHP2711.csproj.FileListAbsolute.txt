@@ -1,0 +1,11 @@
+D:\C#\DKHP2711\DKHP2711\obj\Debug\netcoreapp3.0\DKHP2711.csprojAssemblyReference.cache
+D:\C#\DKHP2711\DKHP2711\obj\Debug\netcoreapp3.0\DKHP2711.AssemblyInfoInputs.cache
+D:\C#\DKHP2711\DKHP2711\obj\Debug\netcoreapp3.0\DKHP2711.AssemblyInfo.cs
+D:\C#\DKHP2711\DKHP2711\bin\Debug\netcoreapp3.0\DKHP2711.exe
+D:\C#\DKHP2711\DKHP2711\bin\Debug\netcoreapp3.0\DKHP2711.deps.json
+D:\C#\DKHP2711\DKHP2711\bin\Debug\netcoreapp3.0\DKHP2711.runtimeconfig.json
+D:\C#\DKHP2711\DKHP2711\bin\Debug\netcoreapp3.0\DKHP2711.runtimeconfig.dev.json
+D:\C#\DKHP2711\DKHP2711\bin\Debug\netcoreapp3.0\DKHP2711.dll
+D:\C#\DKHP2711\DKHP2711\bin\Debug\netcoreapp3.0\DKHP2711.pdb
+D:\C#\DKHP2711\DKHP2711\obj\Debug\netcoreapp3.0\DKHP2711.dll
+D:\C#\DKHP2711\DKHP2711\obj\Debug\netcoreapp3.0\DKHP2711.pdb
